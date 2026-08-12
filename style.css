@@ -1,0 +1,38 @@
+.quadrado {
+    border: 5px solid black;
+    color: black;
+    height: 400px;
+}
+
+.nav {
+    display: flex;
+    justify-content: end;
+}
+
+.triangulo {
+    background-color: yellow;
+    width: 270px;
+    height: 25px;
+}
+
+.retangulo {
+    background-color: crimson;
+    width: 170px;
+    height: 25px;
+}
+
+.paralelepipedo {
+    background-color: rgb(0, 68, 255);
+    width: 250px;
+    height: 25px;
+}
+.brawl {
+   display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.img {
+    width: 20px;
+    height: 20px;
+}
